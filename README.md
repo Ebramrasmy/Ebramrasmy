@@ -40,8 +40,8 @@
 
 ### 🚀 Featured Projects
 
-- [🧠 Bash-Based DBMS CLI](https://github.com/Ebramrasmy/bash-dbms)
-- [🌐 FundMe Crowdfunding App](https://github.com/Ebramrasmy/fundme-react)
+- [🧠 Bash-Based DBMS CLI](https://github.com/GirgisAbdelmalak/bash-dbms.git)
+- [🌐 FundMe Crowdfunding App](https://github.com/MoazAhmedS/fundme-react.git)
 - [⚙️ Odoo HMS Module](https://github.com/Ebramrasmy/odoo-hms)
 
 ---
