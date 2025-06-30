@@ -11,7 +11,7 @@
 - 🎯 Frontend Developer with a focus on **React**, **Tailwind CSS**, and **UX Design**
 - 🔨 Also building Bash CLI tools (like DBMS using shell scripting)
 - 🧠 Currently learning **Odoo**, **Flask**, and **Advanced Django REST**
-- 📫 Reach me at: **ebram.rasmy@example.com**
+- 📫 Reach me at: **ebramrasmy7@gmail.com**
 
 ---
 
@@ -42,7 +42,7 @@
 
 - [🧠 Bash-Based DBMS CLI](https://github.com/GirgisAbdelmalak/bash-dbms.git)
 - [🌐 FundMe Crowdfunding App](https://github.com/MoazAhmedS/fundme-react.git)
-- [⚙️ Odoo HMS Module](https://github.com/Ebramrasmy/odoo-hms)
+
 
 ---
 
